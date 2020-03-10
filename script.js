@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', function () {
-
+  // hello
   'use strict';
 
   let tab = document.querySelectorAll('.info-header-tab'), //кнопки
